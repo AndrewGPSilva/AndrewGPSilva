@@ -1,6 +1,6 @@
 ### Desenvolvedor Fullstack
 
-## Stack do Dia a Dia
+## My Stack (Java e Spring)
 
 ![Ícone Vue](https://aikonbox.com.br/icons?i=vue)
 ![Ícone Php](https://www.aikonbox.com.br/icons?i=php)
