@@ -8,6 +8,6 @@
 
 ### Atualmente minha stack:
 
-[![My Skills](https://skillicons.dev/icons?i=nuxtjs,vue,java,spring,mysql,git,css,ts,vscode,replit,idea)](https://portfvue.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=vue,java,spring,mysql,git,css,idea)](https://portfvue.vercel.app)
 
 ### Estou completamente disponível para todo tipo de desafio!
