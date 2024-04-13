@@ -1,4 +1,4 @@
-## Desenvolvedor Fullstack
+## Desenvolvedor Fullstack na Elin Duxus
 
 #### Ao longo da minha jornada já utilizei todas essas tecnologias:
 
@@ -10,4 +10,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,vue,postgres,gitlab,mysql,idea)](https://portfvue.vercel.app)
 
-### Estou completamente disponível para todo tipo de desafio!
+### Foco totalmente os commits no GitLab da empresa
