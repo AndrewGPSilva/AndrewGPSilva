@@ -8,6 +8,6 @@
 
 ### Atualmente minha stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,vue,postgres,gitlab,mysql,idea)](https://portfvue.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,vue,postgres,gitlab,idea,vscode)](https://portfvue.vercel.app)
 
 ### Foco totalmente os commits no GitLab da empresa
