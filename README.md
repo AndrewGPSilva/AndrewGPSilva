@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,idea,java,spring,laravel,mysql)](https://portfvue.vercel.app)
 
-[![My Skills](https://skillicons.dev/icons?i=nuxtjs,php,postgres,postman,react,replit,tailwind,ts,vite,vscode,vue,ubuntu)](https://portfvue.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,php,postgres,postman,react,tailwind,ts,vite,vscode,vue,ubuntu)](https://portfvue.vercel.app)
 
 ### Atualmente minha stack:
 
