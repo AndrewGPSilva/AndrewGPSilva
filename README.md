@@ -10,4 +10,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,vue,postgres,gitlab,idea,vscode,ubuntu,docker)](https://portfvue.vercel.app)
 
-### Foco totalmente os commits no GitLab da empresa
+### Foco totalmente os commits no GitLab da empresa onde trabalho e de fim de semana Foco nos projetos pessoais.
